@@ -1,2 +1,11 @@
-# DLSUKahitSaan
-A simple web app that suggests a random food place in De La Salle University. This was made as a toy project for Microsoft Student Community's workshop.
+# DLSU KahitSaan
+#### TL;DR a random food place suggester for people near De La Salle University
+
+```
+Friend: San tayo kakain? (Where are we going to eat?)
+Me: Kahit saan. (Anywhere / Any food place.)
+```
+
+DLSUKahitSaan is simple web app that suggests a random food place near De La Salle University. A toy project for DLSU Microsoft Student Community's Web App workshop.
+
+Check it out :point_right: https://danstaticwebstorage.z7.web.core.windows.net/
