@@ -1,5 +1,5 @@
 // Global variables
-const api_key = 'f4eeec0ddc4392790692cde614af2461';
+const api_key = 'insert_api_key_here';
 var restaurants = new Array();
 
 // Helper function to fetch data from Zomato API
